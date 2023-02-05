@@ -1,0 +1,3 @@
+﻿  AverageDistance.cpp
+C:\Users\Rej\Desktop\Visual Studio Projects\AverageDistance\AverageDistance\AverageDistance.cpp(34,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  AverageDistance.vcxproj -> C:\Users\Rej\Desktop\Visual Studio Projects\AverageDistance\x64\Debug\AverageDistance.exe

@@ -1,0 +1,51 @@
+$ cd /
+$ ls
+dir a
+dir x
+$ cd a
+$ ls
+dir b
+$ cd b
+$ ls
+dir c
+$ cd c
+$ ls
+dir d
+$ cd d
+$ ls
+dir e
+$ cd e
+$ ls
+dir f
+$ cd f
+$ ls
+dir g
+$ cd g
+$ ls
+dir h
+$ cd h
+$ ls
+dir i
+$ cd i
+$ ls
+dir j
+$ cd j
+$ ls
+dir k
+$ cd k
+$ ls
+1000 l
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd x
+$ ls
+2000 y
